@@ -8,9 +8,8 @@ Supported devices:
 - DR-G1130(*)
 - other scanners (**)
 
-  (*) scanner agent needed
-  (* *) please check the SNMP compatibility with your local marketing dept.
+* scanner agent needed
+** please check the SNMP compatibility with your local marketing dept.
 
 F.e.x in case of DR-S150 SNMP protocol is disabled by default.
 You have to turn it on via RUI.
-
