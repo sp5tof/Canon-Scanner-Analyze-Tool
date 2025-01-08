@@ -14,3 +14,4 @@ Supported devices:
 ```
 F.e.x in case of DR-S150 SNMP protocol is disabled by default.
 You have to turn it on via RUI.
+![image](https://github.com/user-attachments/assets/efbaf5d7-c40c-4807-a55f-fd9289504c07)
